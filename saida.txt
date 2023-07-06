@@ -1,0 +1,115 @@
+Executando o processo 1 de 1 segundos
+Executando o processo 2 de 2 segundos
+Executando o processo 2 de 2 segundos
+Executando o processo 4 de 1 segundos
+Executando o processo 3 de 4 segundos
+Executando o processo 3 de 4 segundos
+Executando o processo 3 de 4 segundos
+Executando o processo 3 de 4 segundos
+Executando o processo 7 de 1 segundos
+Executando o processo 5 de 2 segundos
+Executando o processo 5 de 2 segundos
+Executando o processo 6 de 3 segundos
+Executando o processo 6 de 3 segundos
+Executando o processo 6 de 3 segundos
+Executando o processo 10 de 4 segundos
+Executando o processo 10 de 4 segundos
+Executando o processo 10 de 4 segundos
+Executando o processo 10 de 4 segundos
+Executando o processo 8 de 8 segundos
+Executando o processo 8 de 8 segundos
+Executando o processo 8 de 8 segundos
+Executando o processo 8 de 8 segundos
+Executando o processo 8 de 8 segundos
+Executando o processo 8 de 8 segundos
+Executando o processo 8 de 8 segundos
+Executando o processo 8 de 8 segundos
+Executando o processo 11 de 1 segundos
+Executando o processo 12 de 6 segundos
+Executando o processo 12 de 6 segundos
+Executando o processo 12 de 6 segundos
+Executando o processo 12 de 6 segundos
+Executando o processo 12 de 6 segundos
+Executando o processo 12 de 6 segundos
+Executando o processo 13 de 3 segundos
+Executando o processo 13 de 3 segundos
+Executando o processo 13 de 3 segundos
+Executando o processo 14 de 5 segundos
+Executando o processo 14 de 5 segundos
+Executando o processo 14 de 5 segundos
+Executando o processo 14 de 5 segundos
+Executando o processo 14 de 5 segundos
+Executando o processo 15 de 2 segundos
+Executando o processo 15 de 2 segundos
+Executando o processo 16 de 7 segundos
+Executando o processo 16 de 7 segundos
+Executando o processo 16 de 7 segundos
+Executando o processo 16 de 7 segundos
+Executando o processo 16 de 7 segundos
+Executando o processo 16 de 7 segundos
+Executando o processo 16 de 7 segundos
+Executando o processo 18 de 2 segundos
+Executando o processo 18 de 2 segundos
+Executando o processo 17 de 7 segundos
+Executando o processo 17 de 7 segundos
+Executando o processo 17 de 7 segundos
+Executando o processo 17 de 7 segundos
+Executando o processo 17 de 7 segundos
+Executando o processo 17 de 7 segundos
+Executando o processo 17 de 7 segundos
+Executando o processo 19 de 2 segundos
+Executando o processo 19 de 2 segundos
+Executando o processo 9 de 10 segundos
+Executando o processo 9 de 10 segundos
+Executando o processo 9 de 10 segundos
+Executando o processo 9 de 10 segundos
+Executando o processo 9 de 10 segundos
+Executando o processo 9 de 10 segundos
+Executando o processo 9 de 10 segundos
+Executando o processo 9 de 10 segundos
+Executando o processo 9 de 10 segundos
+Executando o processo 9 de 10 segundos
+Executando o processo 1 de 1 segundos
+Executando o processo 2 de 2 segundos
+Executando o processo 2 de 2 segundos
+Faltam 0 segundos do processo 2
+Executando o processo 4 de 1 segundos
+Executando o processo 3 de 4 segundos
+Executando o processo 3 de 4 segundos
+Faltam 2 segundos do processo 3
+Executando o processo 5 de 2 segundos
+Executando o processo 5 de 2 segundos
+Faltam 0 segundos do processo 5
+Executando o processo 6 de 3 segundos
+Executando o processo 6 de 3 segundos
+Faltam 1 segundos do processo 6
+Executando o processo 7 de 1 segundos
+Executando o processo 8 de 8 segundos
+Executando o processo 8 de 8 segundos
+Faltam 6 segundos do processo 8
+Executando o processo 9 de 10 segundos
+Executando o processo 9 de 10 segundos
+Faltam 8 segundos do processo 9
+Executando o processo 10 de 4 segundos
+Executando o processo 10 de 4 segundos
+Faltam 2 segundos do processo 10
+Executando o processo 11 de 1 segundos
+Executando o processo 12 de 6 segundos
+Executando o processo 12 de 6 segundos
+Faltam 4 segundos do processo 12
+Executando o processo 14 de 2 segundos
+Executando o processo 14 de 2 segundos
+Executando o processo 14 de 1 segundos
+Executando o processo 13 de 3 segundos
+Executando o processo 13 de 3 segundos
+Faltam 1 segundos do processo 13
+*Executando o processo 13 de 1 segundos
+Executando o processo 14 de 6 segundos
+Executando o processo 14 de 6 segundos
+Faltam 4 segundos do processo 14
+Executando o processo 14 de 4 segundos
+Executando o processo 14 de 4 segundos
+Faltam 2 segundos do processo 14
+Executando o processo 14 de 2 segundos
+Executando o processo 14 de 2 segundos
+
